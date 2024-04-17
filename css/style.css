@@ -22,7 +22,7 @@ header {
     background-color: orange;
 }
 
-.col-sm {
+.col-sm-header {
     width: 20%;
     border: dashed 2px black;
     display: flex;
@@ -30,11 +30,11 @@ header {
     height: 30px;
 }
 
-.col-sm p {
+.col-sm-header p {
     margin: 80%;
 }
 
-.col-lg {
+.col-lg-header {
     width: 60%;
     border: dashed 2px black;
     display: flex;
