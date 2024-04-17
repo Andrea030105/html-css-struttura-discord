@@ -14,7 +14,7 @@
 /* header */
 
 .container-header {
-    width: 50%;
+    width: 40%;
     margin: 0 auto;
 }
 
@@ -40,7 +40,7 @@ header {
 }
 
 .col-sm-header p {
-    margin: 80%;
+    margin: 77%;
 }
 
 .col-lg-header {
