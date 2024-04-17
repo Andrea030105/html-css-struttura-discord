@@ -195,3 +195,32 @@ li {
     background-color: green;
     border: dashed 2px black;
 }
+
+/* Section 6 */
+
+.container-bgcolor-s6 {
+    width: 100%;
+    height: 500px;
+    background-color: black;
+}
+
+.row-s6 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+}
+
+.col-lg-s6 {
+    width: 60%;
+    height: 400px;
+    background-color: #e657ff;
+    border: dashed 2px black;
+}
+
+.col-sm-s6 {
+    width: 40%;
+    height: 400px;
+    background-color: lightblue;
+    border: dashed 2px black;
+}
