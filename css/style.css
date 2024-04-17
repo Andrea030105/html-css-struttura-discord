@@ -25,7 +25,7 @@ header {
     align-items: center;
 }
 
-.row {
+.row-header {
     display: flex;
     justify-content: space-between;
     background-color: orange;
@@ -223,4 +223,33 @@ li {
     height: 400px;
     background-color: lightblue;
     border: dashed 2px black;
+}
+
+/* Footer */
+
+footer {
+    height: 100px;
+    background-color: black;
+    margin-top: 5px;
+    display: flex;
+    align-items: center;
+}
+
+.row-footer {
+    background-color: lightskyblue;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 70px;
+    border: dashed 2px black;
+}
+
+.col-sm-footer {
+    height: 30px;
+    background-color: pink;
+    border: dashed 2px black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 100px;
 }
