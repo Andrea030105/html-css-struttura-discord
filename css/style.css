@@ -52,3 +52,17 @@ ul {
 li {
     padding: 5px;
 }
+
+.container-bgcolor-s1 {
+    width: 100%;
+    height: 400px;
+    background-color: blue;
+    display: flex;
+    align-items: center;
+}
+
+.col-lg-s1 {
+    width: 100%;
+    height: 300px;
+    background-color: pink;
+}
